@@ -74,7 +74,7 @@ O nosso banco de dados é o MySQL
 ### Galeria de imagens
 
 
-| col 1 | col 2 |
+| |  |
 | ------------ | ------------- |
 | <img src="images/academy.png" width="500"/> | <img src="images/avalicao.png" width="500"/>
 | <img src="images/bloqueado-temp.png" width="500"/> | <img src="images/bloqueado.png" width="500"/>
